@@ -9,11 +9,11 @@ Driven by a fervent interest in exploiting data to reveal insights and stimulate
 
 - **Citywise 311 Case Analysis**
   - Applied Naive Bayes for predictive analysis on ticket volumes and resolution times.
-  - [View Project](#)
+  - [Citywise 311 Case Analysis](SpandanaChepuri/Portfolio/tree/main/Citywise%20311%20Case%20Analysis)
 
 - **TICKETO Database**
   - Designed an SQL-based event data management system to enhance information processing.
-  - [TICKETO Database](#)
+  - [TICKETO Database](SpandanaChepuri/Portfolio/tree/main/TICKETO%20Database)
 
 
 ### Skills
