@@ -13,9 +13,8 @@ Driven by a fervent interest in exploiting data to reveal insights and stimulate
 
 - **TICKETO Database**
   - Designed an SQL-based event data management system to enhance information processing.
-  - [View Project](#)
+  - [TICKETO Database](#)
 
-_More projects can be found in [my repositories](#)._
 
 ### Skills
 
