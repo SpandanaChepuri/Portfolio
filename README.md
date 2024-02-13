@@ -1,9 +1,6 @@
 # Spandana Chepuri
-## Data Science Master's Candidate at the University at Buffalo
 
----
-
-Driven by a fervent interest in exploiting data to reveal insights and stimulate innovation, my academic foundation in Computer Science, supplemented by specialized knowledge in Data Sciences, has equipped me to tackle sophisticated problems with analytical rigor and technical proficiency.
+I have a deep enthusiasm for leveraging data to discover insights and propel innovation forward. Grounded in Computer Science with specialized skills in Data Sciences, I am committed to utilizing my analytical abilities and technical know-how to tackle intricate problems.
 
 ### Featured Projects
 
@@ -32,11 +29,10 @@ Driven by a fervent interest in exploiting data to reveal insights and stimulate
    - Predicted software defects early in the development cycle to improve QA processes.
    - [Read Publication](#)
 
-_A complete list of publications is available [here](#)._
 
 ### Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: [SpandanaChepuri](https://www.linkedin.com/in/spandanachepuri)
 - **Email**: `spandanachepuri257@gmail.com`
 
 Thank you for visiting my portfolio. I look forward to collaborating on innovative projects and contributing to the field of data science. Feel free to reach out for any potential collaboration or discussion.
