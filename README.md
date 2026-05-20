@@ -1,7 +1,5 @@
 # Spandana Chepuri
 
-I have a deep enthusiasm for leveraging data to discover insights and propel innovation forward. Grounded in Computer Science with specialized skills in Data Sciences, I am committed to utilizing my analytical abilities and technical know-how to tackle intricate problems.
-
 ### Featured Projects
 
 - **Citywise 311 Case Analysis**
@@ -30,10 +28,4 @@ I have a deep enthusiasm for leveraging data to discover insights and propel inn
    - [Read Publication](#)
 
 
-### Connect with Me
-
-- **LinkedIn**: [SpandanaChepuri](https://www.linkedin.com/in/spandanachepuri)
-- **Email**: `spandanachepuri257@gmail.com`
-
-Thank you for visiting my portfolio. I look forward to collaborating on innovative projects and contributing to the field of data science. Feel free to reach out for any potential collaboration or discussion.
 
